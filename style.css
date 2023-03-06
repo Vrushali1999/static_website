@@ -1,0 +1,122 @@
+
+
+body{
+    
+    background-image: url("https://orig00.deviantart.net/dbb0/f/2017/119/f/2/night_sky_background_by_fahad97-db7j6zi.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+   
+}
+
+
+
+
+ 
+
+.img{
+    display: flex;
+   padding-top: 195px;
+    padding-left: 250px;
+    height: 700px;
+}
+
+.btn{
+    border-radius: 30px !important;
+    padding: 25px;
+    width: 200px;
+    margin-left: 10px;
+    background-color: white !important;
+
+}
+.btn2{
+    border-radius: 30px;
+    padding: 20px;
+    width: 200px;
+    margin-left: 60px;
+    background-color:white;
+} 
+.btn1{
+    padding: 1px;
+    border-radius: 30px;
+    width: 250px;
+    margin-left: 25px;
+    background-color: rgb(125, 238, 125);
+    font-size: 20px;
+}
+
+.btn2{
+    border-radius: 30px;
+    padding: 20px;
+    width: 200px;
+    margin-left: 600px;
+    background-color: rgb(125, 238, 125);
+} 
+.other{
+    text-align: center;
+    font-size: 30px;
+}
+.container{
+    display: flex;
+}
+.container div{
+    margin: 35px;
+    align-items: center;
+    margin-right: 10px;
+}
+
+
+ 
+
+.io{
+   
+   
+    color:black;
+}
+.bi{
+    font-size: 30px;
+}
+.pp{
+    font-size: 15px;
+    padding-left:45px;
+}
+
+.p2{
+    font-size: 15px;
+    padding-left:45px;
+}
+.p3{
+    font-size: 15px;
+    padding-left:45px;
+}
+.p4{
+    font-size: 15px;
+    padding-left:45px;
+}
+#content{
+    display: flex;
+    background-color: gray;
+    height: 250px;
+}
+
+#content div{
+    padding-left: 180px;
+     margin: 15px;
+     text-align: center;
+
+}
+
+#myfooter{
+   
+    background-color: gray;
+    padding-left: 600px;
+    color: white;
+}  
+.bi bi-instagram { padding-top:10px; }
+.bi bi-facebook { padding-top: 10px; }
+.bi bi-twitter {  padding-top: 10px; }
+
+
+
+
+
+
